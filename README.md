@@ -3,12 +3,12 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mucyoelise&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mucyoelise&layout=compact&theme=radical)
  
-# Hi there, I'm Elise Mucyo 👋 Currently taking ComputerScience @UniversityofRwanda.
+# Hi there, I'm Elise Mucyo 👋
 
 ## About Me
 
 I'm a passionate junior software developer with a keen interest in **web development**, **software engineering**, and **open-source contributions**.  
-I love learning new technologies and applying them to solve real-world problems.
+I love learning new technologies and applying them to solve real-world problems. Furthermore, I'm currently taking ComputerScience@UniversityofRwanda.
 
 ## Get in Touch
 
