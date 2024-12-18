@@ -2,7 +2,8 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mucyoelise&layout=compact&theme=radical)
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mucyoelise&show_icons=true&theme=radical)
-![GitHub Contributions](https://github-readme-streak-stats.demolab.com?user=mucyoelise&theme=radical)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mucyoelise&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
 # Hi there, I'm Elise Mucyo 👋
 
