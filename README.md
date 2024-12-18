@@ -11,7 +11,7 @@ I'm a passionate junior software developer with a keen interest in **web develop
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elise-mucyo/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/elisemucyo)
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elisemcyo@gmail.com)
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](elisemcyo@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/250790467044)
 
 <!---
