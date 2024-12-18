@@ -3,7 +3,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mucyoelise&layout=compact&theme=radical)
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mucyoelise&show_icons=true&theme=radical)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mucyoelise&theme=react-dark)](https://github.com/mucyoelise/github-readme-activity-graph)
+![GitHub Contributions](https://komarev.com/ghpvc/?username=mucyoelise&label=Total%20Contributions&color=brightgreen)
  
 # Hi there, I'm Elise Mucyo 👋
 
