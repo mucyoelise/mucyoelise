@@ -9,7 +9,7 @@
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mucyoelise&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mucyoelise&layout=compact&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com?user=mucyoelise&theme=radical)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=mucyoelise&cache_seconds=86400)
 
 <!---
 mucyoelise/mucyoelise is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
