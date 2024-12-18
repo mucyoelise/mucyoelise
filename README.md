@@ -8,7 +8,7 @@
 ## About Me
 
 I'm a passionate junior software developer with a keen interest in **web development**, **software engineering**, and **open-source contributions**.  
-I love learning new technologies and applying them to solve real-world problems. Furthermore, I'm currently taking ComputerScience@UniversityofRwanda.
+I love learning new technologies and applying them to solve real-world problems. Furthermore, I'm currently taking ComputerScience@UR.
 
 ## Connect with Me
 
