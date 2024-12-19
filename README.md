@@ -5,7 +5,7 @@
  
 # Hi there, I'm Elise Mucyo 👋
 
-I'm a passionate junior developer with a keen interest in **web development**, **software engineering**, and **open-source contributions**.
+I'm a passionate junior developer with a keen interest in **web development**, **software engineering**, and **open-source contributions**.    
 I love learning new technologies and applying them to solve real-world problems.
 
 ## Connect with Me
