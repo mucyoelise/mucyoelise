@@ -3,6 +3,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mucyoelise&layout=compact&theme=radical)
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mucyoelise&show_icons=true&theme=radical)
 [![](https://visitcount.itsvg.in/api?id=mucyoelise&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+![Visitor Count](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=visitors&query=$.count&url=https%3A%2F%2Fapi.countapi.xyz%2Fget%2Fmucyoelise%2Frepo)
  
 # Hi there, I'm Elise Mucyo 👋
 
