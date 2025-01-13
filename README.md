@@ -2,7 +2,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mucyoelise&layout=compact&theme=radical)
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mucyoelise&show_icons=true&theme=radical)
-[![](https://visitcount.itsvg.in/api?id=mucyoelise&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+![Visit Counter](https://komarev.com/ghpvc/?username=mucyoelise&style=plastic-square&color=brightgreen)
  
 # Hi there, I'm Elise Mucyo 👋
 
