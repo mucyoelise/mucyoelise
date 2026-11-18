@@ -11,7 +11,7 @@
 <p>
   <a href="https://github.com/mucyoelise"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://linkedin.com/in/elise-mucyo/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://teclk.com"><img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://elisemucyo.teclk.com"><img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:elisemcyo@gmail.com"><img src="https://img.shields.io/badge/Email-DB4437?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
@@ -121,7 +121,7 @@ Learn → Build → Test → Reflect → Share
 
 <a href="https://github.com/mucyoelise">GitHub</a> ·
 <a href="https://linkedin.com/in/elise-mucyo/">LinkedIn</a> ·
-<a href="https://teclk.com">teclk.com</a> ·
+<a href="https://elisemucyo.teclk.com">elisemucyo.teclk.com</a> ·
 <a href="mailto:elisemcyo@gmail.com">elisemcyo@gmail.com</a> ·
 <a href="https://x.com/elisemucyo">X</a> ·
 <a href="https://wa.me/250781541060">WhatsApp</a> ·
