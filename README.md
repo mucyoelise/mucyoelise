@@ -50,48 +50,6 @@ I am a **Computer Science student at the University of Rwanda** and a **Customer
 
 </details>
 
-## Featured projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/mucyoelise/cs50ai">CS50 AI Notes & Projects</a></h3>
-      <p>Learning repository for Harvard's Introduction to Artificial Intelligence with Python, including notes, quizzes, problem sets, and project work.</p>
-      <p><a href="https://github.com/mucyoelise/cs50ai">View repository →</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/mucyoelise/ToDoApp">ToDoApp</a></h3>
-      <p>A full-stack task application using a Flask/Python backend and React/TypeScript frontend.</p>
-      <p><a href="https://github.com/mucyoelise/ToDoApp">View repository →</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/mucyoelise/citizen-engagement-system">Citizen Engagement System</a></h3>
-      <p>An MVP for submitting and tracking citizen complaints while enabling institutions to respond through an admin interface.</p>
-      <p><a href="https://github.com/mucyoelise/citizen-engagement-system">View repository →</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/mucyoelise/PCMS-System">PC Maintenance Management</a></h3>
-      <p>A web-based system for managing ICT equipment, technicians, and service requests with Java, Hibernate, MySQL, and MVC architecture.</p>
-      <p><a href="https://github.com/mucyoelise/PCMS-System">View repository →</a></p>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <a href="https://github.com/mucyoelise?tab=repositories"><b>Explore all repositories →</b></a>
-</p>
-
-## Education & professional learning
-
-- **BSc Computer Science — University of Rwanda** *(current student)*
-- **Customer Experience Associate — Irembo**
-- **Meta Front-End coursework** — [learning repository](https://github.com/mucyoelise/Coursera-Meta-FrontEnd-Course)
-- **CS50P: Introduction to Programming with Python** — [final project](https://github.com/mucyoelise/CS50P-LastProj)
-
-> Links above point to public coursework or project repositories; they are included as evidence of learning, not as a claim of credentials beyond what is publicly available.
-
 ## My AI/ML journey
 
 I am building a strong foundation in Python, algorithms, and software engineering while working through AI concepts in CS50 AI. My next goal is to deepen my understanding of machine learning, experiment with practical models, and connect AI with reliable full-stack products that solve meaningful problems.
