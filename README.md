@@ -108,7 +108,7 @@ Learn → Build → Test → Reflect → Share
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mucyoelise&hide_border=true&background=00000000&ring=6366F1&fire=F97316&currStreakLabel=6366F1&sideLabels=6B7280&dates=6B7280" alt="Elise's GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=mucyoelise&hide_border=true&background=00000000&ring=6366F1&fire=F97316&currStreakLabel=6366F1&sideLabels=6B7280&sideNums=2563EB&dates=6B7280" alt="Elise's GitHub contribution streak" />
 </div>
 
 <div align="center">
