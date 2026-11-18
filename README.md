@@ -11,7 +11,7 @@
 <p>
   <a href="https://github.com/mucyoelise"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://linkedin.com/in/elise-mucyo/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://teclk.com"><img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://elisemucyo.teclk.com"><img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:elisemcyo@gmail.com"><img src="https://img.shields.io/badge/Email-DB4437?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
@@ -103,20 +103,16 @@ Learn → Build → Test → Reflect → Share
 ## GitHub at a glance
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mucyoelise&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent&title_color=6366F1&icon_color=2563EB&text_color=6B7280" alt="Elise's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mucyoelise&show_icons=true&hide=commits&hide_border=true&rank_icon=github&theme=transparent&title_color=6366F1&icon_color=2563EB&text_color=6B7280" alt="Elise's GitHub statistics" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mucyoelise&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=6366F1&text_color=6B7280" alt="Elise's top languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mucyoelise&hide_border=true&background=00000000&ring=6366F1&fire=F97316&currStreakLabel=6366F1&sideLabels=6B7280&dates=6B7280" alt="Elise's GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=mucyoelise&hide_border=true&background=00000000&ring=6366F1&fire=F97316&currStreakLabel=6366F1&sideLabels=6B7280&sideNums=2563EB&dates=6B7280" alt="Elise's GitHub contribution streak" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mucyoelise&bg_color=00000000&color=6B7280&line=6366F1&point=2563EB&area=true&hide_border=true" alt="Elise's GitHub activity graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mucyoelise&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub profile achievements" />
 </div>
 
 ## Let's connect
@@ -125,7 +121,7 @@ Learn → Build → Test → Reflect → Share
 
 <a href="https://github.com/mucyoelise">GitHub</a> ·
 <a href="https://linkedin.com/in/elise-mucyo/">LinkedIn</a> ·
-<a href="https://teclk.com">teclk.com</a> ·
+<a href="https://elisemucyo.teclk.com">elisemucyo.teclk.com</a> ·
 <a href="mailto:elisemcyo@gmail.com">elisemcyo@gmail.com</a> ·
 <a href="https://x.com/elisemucyo">X</a> ·
 <a href="https://wa.me/250781541060">WhatsApp</a> ·
