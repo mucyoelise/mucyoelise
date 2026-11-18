@@ -103,7 +103,7 @@ Learn → Build → Test → Reflect → Share
 ## GitHub at a glance
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mucyoelise&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent&title_color=6366F1&icon_color=2563EB&text_color=6B7280" alt="Elise's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mucyoelise&show_icons=true&hide=commits&hide_border=true&rank_icon=github&theme=transparent&title_color=6366F1&icon_color=2563EB&text_color=6B7280" alt="Elise's GitHub statistics" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mucyoelise&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=6366F1&text_color=6B7280" alt="Elise's top languages" />
 </div>
 
@@ -113,10 +113,6 @@ Learn → Build → Test → Reflect → Share
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mucyoelise&bg_color=00000000&color=6B7280&line=6366F1&point=2563EB&area=true&hide_border=true" alt="Elise's GitHub activity graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mucyoelise&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub profile achievements" />
 </div>
 
 ## Let's connect
